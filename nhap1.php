@@ -14,3 +14,6 @@
     $path = 'result/'.$file_1;
     echo 'a href="view.php?file ='.$path.'</a>';
 ?>
+
+aaaaa
+bbbbbbbbbbbbbbb
